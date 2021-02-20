@@ -1,4 +1,4 @@
-<img src='./assets/Script Camping Facebook Cover.png' height="200" width="600">
+<img src='./assets/Script Camping Facebook Cover.png' height="300" width="600">
 
 <!--
 **TanisTanis/TanisTanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
