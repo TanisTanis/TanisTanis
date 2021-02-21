@@ -13,6 +13,12 @@
 <img alt="Javascript" src="./assets/logos/javascript.svg" height="15" width="15"/> Javascript  <img alt="HTML" src="./assets/logos/html5.svg" height="15" width="15"/> HTML  <img alt="CSS" src="./assets/logos/css3.svg" height="15" width="15"/> CSS
 </pre>
 
+### Front End
+
+<pre>
+<img alt="React" src="./assets/logos/react.svg" height="15" width="15"/> React  <img alt="jQuery" src="./assets/logos/jquery.svg" height="15" width="15"/> jQuery  <img alt="Apollo" src="./assets/logos/apollographql.svg" height="15" width="15"/> Apollo
+</pre>
+
 <!--
 **TanisTanis/TanisTanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
