@@ -4,8 +4,6 @@
 
 > <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com 
 
-<img alt="tkiel12@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
 <!--
 **TanisTanis/TanisTanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
