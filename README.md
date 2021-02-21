@@ -2,7 +2,7 @@
 
 ### Get in Touch:
 
-> <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com 
+> <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com <img alt="Gmail" src="https://unpkg.com/simple-icons@4.11.0/icons/linkedin.svg" height="15" width="15"/>
 
 <!--
 **TanisTanis/TanisTanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
