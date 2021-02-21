@@ -2,7 +2,8 @@
 
 ### Get in Touch:
 
-> <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com <img alt="Linked In" src="./assets/logos/linkedin.svg" height="15" width="15"> https://www.linkedin.com/in/tanis-kiel-5589141bb/
+> <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com
+> <img alt="Linked In" src="./assets/logos/linkedin.svg" height="15" width="15"> https://www.linkedin.com/in/tanis-kiel-5589141bb/
 
 <!--
 **TanisTanis/TanisTanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
