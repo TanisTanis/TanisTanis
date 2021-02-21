@@ -22,7 +22,7 @@
 ### Back End
 
 <pre>
-<img alt="MongoDB" src="./assets/logos/node-dot-js.svg" height="15" width="15"/> NodeJS  <img alt="Express" src="./assets/logos/express.svg" height="15" width="15"/> Express  <img alt="GraphQL" src="./assets/logos/graphql.svg" height="15" width="15"/> GraphQL  <img alt="MongoDB" src="./assets/logos/mongodb.svg" height="15" width="15"/> MongoDB  <img alt="PostgreSQL" src="./assets/logos/postgresql.svg" height="15" width="15"/> PostgreSQL  <img alt="MySQL" src="./assets/logos/mysql.svg" height="15" width="15"/> MySQL
+<img alt="NodeJS" src="./assets/logos/node-dot-js.svg" height="15" width="15"/> NodeJS  <img alt="Express" src="./assets/logos/express.svg" height="15" width="15"/> Express  <img alt="GraphQL" src="./assets/logos/graphql.svg" height="15" width="15"/> GraphQL  <img alt="NGINX" src="./assets/logos/nginx.svg" height="15" width="15"/> NGINX  <img alt="MongoDB" src="./assets/logos/mongodb.svg" height="15" width="15"/> MongoDB  <img alt="PostgreSQL" src="./assets/logos/postgresql.svg" height="15" width="15"/> PostgreSQL  <img alt="MySQL" src="./assets/logos/mysql.svg" height="15" width="15"/> MySQL
 </pre>
 
 ### Tools / Testing
