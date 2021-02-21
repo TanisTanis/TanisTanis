@@ -2,7 +2,7 @@
 
 ### Get in Touch:
 
-> <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com
+> <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com <br />
 > <img alt="Linked In" src="./assets/logos/linkedin.svg" height="15" width="15"> https://www.linkedin.com/in/tanis-kiel-5589141bb/
 
 <!--
