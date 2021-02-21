@@ -9,9 +9,7 @@
 
 ### Languages
 
-> <img alt="Javascript" src="./assets/logos/javascript.svg" height="15" width="15"/>  Javascript  
-> <img alt="HTML" src="./assets/logos/html5.svg" height="15" width="15"/>  HTML  
-> <img alt="CSS" src="./assets/logos/css3.svg" height="15" width="15"/>  CSS  
+> <img alt="Javascript" src="./assets/logos/javascript.svg" height="15" width="15"/>  Javascript    <img alt="HTML" src="./assets/logos/html5.svg" height="15" width="15"/>  HTML    <img alt="CSS" src="./assets/logos/css3.svg" height="15" width="15"/>  CSS
 
 <!--
 **TanisTanis/TanisTanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
