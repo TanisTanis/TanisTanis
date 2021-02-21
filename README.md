@@ -22,7 +22,13 @@
 ### Back End
 
 <pre>
-<img alt="MongoDB" src="./assets/logos/node-dot-js.svg" height="15" width="15"/> NodeJS  <img alt="Express" src="./assets/logos/express.svg" height="15" width="15"/> Express  <img alt="GraphQL" src="./assets/logos/graphql.svg" height="20" width="20"/> GraphQL  <img alt="MongoDB" src="./assets/logos/mongodb.svg" height="15" width="15"/> MongoDB  <img alt="PostgreSQL" src="./assets/logos/postgresql.svg" height="15" width="15"/> PostgreSQL  <img alt="MySQL" src="./assets/logos/mysql.svg" height="15" width="15"/> MySQL
+<img alt="MongoDB" src="./assets/logos/node-dot-js.svg" height="15" width="15"/> NodeJS  <img alt="Express" src="./assets/logos/express.svg" height="15" width="15"/> Express  <img alt="GraphQL" src="./assets/logos/graphql.svg" height="15" width="15"/> GraphQL  <img alt="MongoDB" src="./assets/logos/mongodb.svg" height="15" width="15"/> MongoDB  <img alt="PostgreSQL" src="./assets/logos/postgresql.svg" height="15" width="15"/> PostgreSQL  <img alt="MySQL" src="./assets/logos/mysql.svg" height="15" width="15"/> MySQL
+</pre>
+
+### Tools / Testing
+
+<pre>
+<img alt="AWS" src="./assets/logos/amazonaws.svg" height="15" width="15"/> AWS  <img alt="Docker" src="./assets/logos/docker.svg" height="15" width="15"/> Docker  <img alt="Jest" src="./assets/logos/jest.svg" height="15" width="15"/> Jest  <img alt="Testing Library" src="./assets/logos/testinglibrary.svg" height="15" width="15"/> Testing Library  <img alt="Git" src="./assets/logos/git.svg" height="15" width="15"/> Git  <img alt="Webpack" src="./assets/logos/webpack.svg" height="15" width="15"/> Webpack  <img alt="Babel" src="./assets/logos/babel.svg" height="15" width="15"/> Babel
 </pre>
 
 
