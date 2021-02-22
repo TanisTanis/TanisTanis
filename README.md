@@ -31,9 +31,7 @@
 <img alt="AWS" src="./assets/logos/amazonaws.svg" height="15" width="15"/> AWS  <img alt="Docker" src="./assets/logos/docker.svg" height="15" width="15"/> Docker  <img alt="Jest" src="./assets/logos/jest.svg" height="15" width="15"/> Jest  <img alt="Testing Library" src="./assets/logos/testinglibrary.svg" height="15" width="15"/> Testing Library  <img alt="Git" src="./assets/logos/git.svg" height="15" width="15"/> Git  <img alt="Webpack" src="./assets/logos/webpack.svg" height="15" width="15"/> Webpack  <img alt="Babel" src="./assets/logos/babel.svg" height="15" width="15"/> Babel
 </pre>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanisTanis&hide=stars,issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanisTanis)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanisTanis&hide=stars,issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanisTanis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TanisTanis/TanisTanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
