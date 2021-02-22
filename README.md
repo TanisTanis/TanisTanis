@@ -8,7 +8,7 @@
 ## Check out my projects!
 
 <a href="https://github.com/TanisTanis/digitalnomad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanisTanis&repo=digitalnomad&bg_color=#eb99ff&text_color=#ff944d" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanisTanis&repo=digitalnomad&theme=algolia" />
 </a>
 <a href="https://github.com/pirate-ninjas/Reviews-Service">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirate-ninjas&repo=Reviews-Service" />
