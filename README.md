@@ -10,12 +10,12 @@
 <a href="https://github.com/TanisTanis/digitalnomad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanisTanis&repo=digitalnomad&theme=algolia" />
 </a>
-<a href="https://github.com/pirate-ninjas/Reviews-Service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirate-ninjas&repo=Reviews-Service&theme=react" />
+<a href="https://github.com/TanisTanis/Reviews-Service">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanisTanis&repo=Reviews-Service&theme=react" />
 </a>
 
-<a href="https://github.com/EricTnV/photo-carousel-service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricTnV&repo=photo-carousel-service&theme=onedark" />
+<a href="https://github.com/TanisTanis/photo-carousel-service">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanisTanis&repo=photo-carousel-service&theme=onedark" />
 </a>
 
 ## Experience
