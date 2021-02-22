@@ -5,6 +5,15 @@
 > <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com <br />
 > <img alt="Linked In" src="./assets/logos/linkedin.svg" height="15" width="15"/> https://www.linkedin.com/in/tanis-kiel/
 
+## Check out my projects!
+
+<a href="https://github.com/TanisTanis/digitalnomad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanisTanis&repo=digitalnomad" />
+</a>
+<a href="https://github.com/pirate-ninjas/Reviews-Service">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirate-ninjas&repo=Reviews-Service" />
+</a>
+
 ## Experience
 
 ### Languages
