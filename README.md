@@ -35,6 +35,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanisTanis&hide=stars,issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanisTanis&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
+## Technologies I want to learn
+
+<pre>
+<img alt="Python" src="./assets/logos/python.svg" height="15" width="15"/> Python  <img alt="Typescript" src="./assets/logos/typescript.svg" height="15" width="15"/> Typescript  <img alt="Ruby on Rails" src="./assets/logos/rubyonrails.svg" height="15" width="15"/> Ruby on Rails  <img alt="Redux" src="./assets/logos/redux.svg" height="15" width="15"/> Redux  <img alt="Redis" src="./assets/logos/redis.svg" height="15" width="15"/> Redis  <img alt="DynamoDB" src="./assets/logos/amazondynamodb.svg" height="15" width="15"/> DynamoDB  <img alt="Cassandra" src="./assets/logos/apachecassandra.svg" height="15" width="15"/> Cassandra
+</pre>
+
 <!--
 **TanisTanis/TanisTanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
