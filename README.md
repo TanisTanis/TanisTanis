@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/EricTnV/photo-carousel-service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricTnV&repo=photo-carousel-service&theme=maroongold" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricTnV&repo=photo-carousel-service&theme=onedark" />
 </a>
 
 ## Experience
