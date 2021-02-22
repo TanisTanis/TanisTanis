@@ -11,7 +11,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TanisTanis&repo=digitalnomad&theme=algolia" />
 </a>
 <a href="https://github.com/pirate-ninjas/Reviews-Service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirate-ninjas&repo=Reviews-Service" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirate-ninjas&repo=Reviews-Service&theme=react" />
+</a>
+
+<a href="https://github.com/EricTnV/photo-carousel-service">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricTnV&repo=photo-carousel-service&theme=maroongold" />
 </a>
 
 ## Experience
