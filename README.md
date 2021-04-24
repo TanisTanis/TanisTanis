@@ -23,7 +23,7 @@
 ### Languages
 
 <pre>
-<img alt="Javascript" src="./assets/logos/javascript.svg" height="15" width="15"/> Javascript  <img alt="HTML" src="./assets/logos/html5.svg" height="15" width="15"/> HTML  <img alt="CSS" src="./assets/logos/css3.svg" height="15" width="15"/> CSS
+<img alt="Javascript" src="./assets/logos/javascript.svg" height="15" width="15"/> Javascript  <img alt="Typescript" src="./assets/logos/typescript.svg" height="15" width="15"/> Typescript  <img alt="HTML" src="./assets/logos/html5.svg" height="15" width="15"/> HTML  <img alt="CSS" src="./assets/logos/css3.svg" height="15" width="15"/> CSS
 </pre>
 
 ### Front End
@@ -51,7 +51,7 @@
 ## Technologies I want to learn
 
 <pre>
-<img alt="Python" src="./assets/logos/python.svg" height="15" width="15"/> Python  <img alt="Typescript" src="./assets/logos/typescript.svg" height="15" width="15"/> Typescript  <img alt="Ruby on Rails" src="./assets/logos/rubyonrails.svg" height="15" width="15"/> Ruby on Rails  <img alt="Redux" src="./assets/logos/redux.svg" height="15" width="15"/> Redux  <img alt="Redis" src="./assets/logos/redis.svg" height="15" width="15"/> Redis  <img alt="DynamoDB" src="./assets/logos/amazondynamodb.svg" height="15" width="15"/> DynamoDB  <img alt="Cassandra" src="./assets/logos/apachecassandra.svg" height="15" width="15"/> Cassandra
+<img alt="Python" src="./assets/logos/python.svg" height="15" width="15"/> Python  <img alt="Ruby on Rails" src="./assets/logos/rubyonrails.svg" height="15" width="15"/> Ruby on Rails  <img alt="Redux" src="./assets/logos/redux.svg" height="15" width="15"/> Redux  <img alt="Redis" src="./assets/logos/redis.svg" height="15" width="15"/> Redis  <img alt="DynamoDB" src="./assets/logos/amazondynamodb.svg" height="15" width="15"/> DynamoDB  <img alt="Cassandra" src="./assets/logos/apachecassandra.svg" height="15" width="15"/> Cassandra
 </pre>
 
 <!--
