@@ -34,7 +34,7 @@
 ### Back End
 
 <pre>
-<img alt="NodeJS" src="./assets/logos/node-dot-js.svg" height="15" width="15"/> NodeJS  <img alt="Express" src="./assets/logos/express.svg" height="15" width="15"/> Express  <img alt="GraphQL" src="./assets/logos/graphql.svg" height="15" width="15"/> GraphQL  <img alt="NGINX" src="./assets/logos/nginx.svg" height="15" width="15"/> NGINX  <img alt="MongoDB" src="./assets/logos/mongodb.svg" height="15" width="15"/> MongoDB  <img alt="PostgreSQL" src="./assets/logos/postgresql.svg" height="15" width="15"/> PostgreSQL  <img alt="MySQL" src="./assets/logos/mysql.svg" height="15" width="15"/> MySQL
+<img alt="NodeJS" src="./assets/logos/node-dot-js.svg" height="15" width="15"/> NodeJS  <img alt="Express" src="./assets/logos/express.svg" height="15" width="15"/> Express  <img alt="GraphQL" src="./assets/logos/graphql.svg" height="15" width="15"/> GraphQL  <img alt="NGINX" src="./assets/logos/nginx.svg" height="15" width="15"/> NGINX  <img alt="MongoDB" src="./assets/logos/mongodb.svg" height="15" width="15"/> MongoDB  <img alt="PostgreSQL" src="./assets/logos/postgresql.svg" height="15" width="15"/> PostgreSQL  <img alt="MySQL" src="./assets/logos/mysql.svg" height="15" width="15"/> MySQL  <img alt="Redis" src="./assets/logos/redis.svg" height="15" width="15"/> Redis
 </pre>
 
 ### Tools / Testing
@@ -50,7 +50,7 @@
 ## Technologies I want to learn
 
 <pre>
-<img alt="Python" src="./assets/logos/python.svg" height="15" width="15"/> Python  <img alt="Ruby on Rails" src="./assets/logos/rubyonrails.svg" height="15" width="15"/> Ruby on Rails  <img alt="Redux" src="./assets/logos/redux.svg" height="15" width="15"/> Redux  <img alt="Redis" src="./assets/logos/redis.svg" height="15" width="15"/> Redis  <img alt="DynamoDB" src="./assets/logos/amazondynamodb.svg" height="15" width="15"/> DynamoDB  <img alt="Cassandra" src="./assets/logos/apachecassandra.svg" height="15" width="15"/> Cassandra
+<img alt="Python" src="./assets/logos/python.svg" height="15" width="15"/> Python  <img alt="Ruby on Rails" src="./assets/logos/rubyonrails.svg" height="15" width="15"/> Ruby on Rails  <img alt="Redux" src="./assets/logos/redux.svg" height="15" width="15"/> Redux  <img alt="DynamoDB" src="./assets/logos/amazondynamodb.svg" height="15" width="15"/> DynamoDB  <img alt="Cassandra" src="./assets/logos/apachecassandra.svg" height="15" width="15"/> Cassandra
 </pre>
 
 <!--
