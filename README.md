@@ -2,8 +2,7 @@
 
 ## Get in Touch
 
-> <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/>  tkiel12@gmail.com <br />
-> <img alt="Linked In" src="./assets/logos/linkedin.svg" height="15" width="15"/> https://www.linkedin.com/in/tanis-kiel/
+> <img alt="Gmail" src="./assets/logos/gmail.svg" height="15" width="15"/> tkiel12@gmail.com <br /> > <img alt="Linked In" src="./assets/logos/linkedin.svg" height="15" width="15"/> https://www.linkedin.com/in/tanis-kiel/
 
 ## Check out my work!
 
@@ -29,7 +28,7 @@
 ### Front End
 
 <pre>
-<img alt="React" src="./assets/logos/react.svg" height="15" width="15"/> React  <img alt="jQuery" src="./assets/logos/jquery.svg" height="15" width="15"/> jQuery  <img alt="Apollo" src="./assets/logos/apollographql.svg" height="15" width="15"/> Apollo
+<img alt="React" src="./assets/logos/react.svg" height="15" width="15"/> React  <img alt="jQuery" src="./assets/logos/jquery.svg" height="15" width="15"/> jQuery  <img alt="Apollo" src="./assets/logos/apollographql.svg" height="15" width="15"/> Apollo  <img alt="Sass" src="./assets/logos/sass.svg" height="15" width="15"/> Sass
 </pre>
 
 ### Back End
