@@ -1,4 +1,4 @@
-<img src='./assets/banners/Script Camping Facebook Cover.png' height="300" width="600">
+<img src='./assets/banners/Brush Script Facebook Cover.png' height="300" width="600">
 
 ## Get in Touch
 
