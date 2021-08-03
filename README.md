@@ -23,7 +23,7 @@
 ### Languages
 
 <pre>
-<img alt="Javascript" src="./assets/logos/javascript.svg" height="15" width="15"/> Javascript  <img alt="Typescript" src="./assets/logos/typescript.svg" height="15" width="15"/> Typescript  <img alt="HTML" src="./assets/logos/html5.svg" height="15" width="15"/> HTML  <img alt="CSS" src="./assets/logos/css3.svg" height="15" width="15"/> CSS
+<img alt="Javascript" src="./assets/logos/javascript.svg" height="15" width="15"/> Javascript  <img alt="Typescript" src="./assets/logos/typescript.svg" height="15" width="15"/> Typescript  <img alt="Java" src="./assets/logos/java.svg" height="15" width="15"/> Java  <img alt="HTML" src="./assets/logos/html5.svg" height="15" width="15"/> HTML  <img alt="CSS" src="./assets/logos/css3.svg" height="15" width="15"/> CSS
 </pre>
 
 ### Front End
