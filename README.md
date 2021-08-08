@@ -28,7 +28,7 @@
 ### Front End
 
 <pre>
-<img alt="React" src="./assets/logos/react.svg" height="15" width="15"/> React  <img alt="jQuery" src="./assets/logos/jquery.svg" height="15" width="15"/> jQuery  <img alt="Apollo" src="./assets/logos/apollographql.svg" height="15" width="15"/> Apollo  <img alt="Sass" src="./assets/logos/sass.svg" height="15" width="15"/> Sass
+<img alt="React" src="./assets/logos/react.svg" height="15" width="15"/> React  <img alt="jQuery" src="./assets/logos/jquery.svg" height="15" width="15"/> jQuery  <img alt="Apollo" src="./assets/logos/apollographql.svg" height="15" width="15"/> Apollo  <img alt="Sass" src="./assets/logos/sass.svg" height="15" width="15"/> Sass  <img alt="Angular" src="./assets/logos/angular.svg" height="15" width="15"/> Sass
 </pre>
 
 ### Back End
